@@ -1,4 +1,4 @@
-#Why am i getting 6 as the summation of the dat in this list
+#Why am i getting 6 as the summation of the data in this list
 money = [3,5,4,20]
 total_money = 0
 for t in range(0,len(money)):
