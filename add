@@ -4,4 +4,3 @@ total_money = 0
 for t in range(0,len(money)):
     total_money = total_money + t
 print(total_money)
-xfngmgmg
